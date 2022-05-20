@@ -7,5 +7,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="ex_picture" />
     <orderEntry type="module" module-name="ex_closure" />
+    <orderEntry type="module" module-name="tobd" />
   </component>
 </module>

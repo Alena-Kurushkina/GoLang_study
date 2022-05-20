@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/GoLang_study.iml" filepath="$PROJECT_DIR$/.idea/GoLang_study.iml" />
       <module fileurl="file://$PROJECT_DIR$/ex_closure/.idea/ex_closure.iml" filepath="$PROJECT_DIR$/ex_closure/.idea/ex_closure.iml" />
       <module fileurl="file://$PROJECT_DIR$/../ex_picture/.idea/ex_picture.iml" filepath="$PROJECT_DIR$/../ex_picture/.idea/ex_picture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tobd/.idea/tobd.iml" filepath="$PROJECT_DIR$/../tobd/.idea/tobd.iml" />
     </modules>
   </component>
 </project>

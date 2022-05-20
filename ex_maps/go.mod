@@ -1,4 +1,4 @@
-module ex_picture
+module ex_maps
 
 go 1.18
 
